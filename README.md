@@ -1,7 +1,7 @@
 
-# README
 
-## Movie Genre Classification
+
+# Movie Genre Classification
 
 ### Project Overview
 This project involves building a machine learning model to predict the genre of a movie based on its plot summary or other textual information. The primary focus is on textual data analysis and classification.
